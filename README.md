@@ -1,4 +1,4 @@
 # PracticeSeinfeld
 ## Description 
 
-This is my first Github depository project on If statements using Seinfeld characters
+This is my first Github repository project on If statements using Seinfeld characters
