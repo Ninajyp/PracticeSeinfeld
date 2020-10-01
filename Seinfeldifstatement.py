@@ -11,6 +11,9 @@ elif seinfeldCharacter == "George":
 
 elif seinfeldCharacter == "Jerry":
     print("Thats a shame.")
+    
+elif seinfeldCharacter == "Newman":
+    print("When You Control The Mail, You Control... Information.")
 
 else:
     print("Look, you're a nice guy but I actually only have three freinds, I cant handle more.")
